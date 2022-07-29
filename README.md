@@ -1,9 +1,12 @@
 ### TOP 1000 ACTIVE GITHUB CONTRIBUTORS IN ZAMBIA
+<br>
 
+<img align="center" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg" alt="Zambia">
+<br>
 This repository was created by, and is maintained by Chanda Chewe. It is a List of top 1000 most active GitHub users contributors in Zambia sorted by their public contributions. We have about 1240+ GitHub users in Zambia but GitHub only allows you to fetch a maximum of 1000 users hence that number being the Limit. This repository was made using PHP LARAVEL ✨.  The list was last updated on 2022/7/28 15:00 AM CAT. The list will be updated every after 48 hours hence your recent commits may not be visible. Check your Rank In Zambia 😄.
 <br><br>
 
-<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg" alt="Zambia">
+
 
 
 
